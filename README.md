@@ -44,3 +44,8 @@ Performance metrics, including average fitness, standard deviation, and runtime,
 - Ackley’s Two
 - Egg Holder
 
+#### Research Materials
+This repository includes additional research materials for further insights:
+- [Project Report (PDF)](Project1_CS465_Amin.pdf)
+- [Seminar Presentation (PDF)](Seminar1_CS465_Amin.pdf)
+
